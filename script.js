@@ -17,7 +17,7 @@ startBtn.addEventListener("click",function () {
     timer.style.display = "block";
     submitBtn.style.display = "block";
     getQuestions();
-    countdown(30);
+    countdown(1000);
     
 })
 
